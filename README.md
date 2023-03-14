@@ -4,6 +4,6 @@ This Stopwatch App is a web application that tracks time with millisecond accura
 
 To run the Stopwatch App, simply open the index.html file in your web browser. No additional installation or prerequisites are required.
 
-Thank you for using the Stopwatch App!
+Thank you for using my Stopwatch App!
 
 Built by Juan (Juanye)

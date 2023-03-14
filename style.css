@@ -71,6 +71,7 @@
     .btn {
         font-size: 1em;
         padding: 5px 10px;
+        touch-action: manipulation;
     }
     .laps li {
         font-size: 1em;

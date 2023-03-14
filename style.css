@@ -59,6 +59,10 @@
     .display {
         font-size: 3em;
     }
+
+    .btn {
+        touch-action: manipulation;
+    }
 }
 
 @media screen and (max-width: 480px) {

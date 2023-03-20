@@ -1,9 +1,26 @@
 # Stopwatch App
 
-This Stopwatch App is a web application that tracks time with millisecond accuracy. The app was built using HTML, CSS, and JavaScript, with a client-side architecture that uses the Date object to track elapsed time. The app includes a formatTime() function that formats the elapsed time in hours, minutes, seconds, and milliseconds. Event listeners update the timer display and laps list in real-time.
+A visually appealing, user-friendly Stopwatch App built using JavaScript, HTML, and CSS. This web app allows users to time events with millisecond accuracy, and includes a laps list feature. Designed with mobile responsiveness in mind, the Stopwatch App works seamlessly on both desktop and mobile devices.
 
-To run the Stopwatch App, simply open the index.html file in your web browser. No additional installation or prerequisites are required.
+## Features
+- Responsive design for compatibility with various devices
+- User-friendly interface with a clean and professional appearance
+- Tracks elapsed time with millisecond accuracy using the Date object in JavaScript
+- Includes a `formatTime()` function that formats the elapsed time in hours, minutes, seconds, and milliseconds
+- Real-time updates to the timer display and laps list using event listeners
+- Simple and intuitive button controls to start, stop, reset, and add laps to the timer
 
-Thank you for using my Stopwatch App!
+## Usage
+1. Clone the repository or download the source code as a ZIP file.
+2. Open the `index.html` file in your preferred web browser.
+3. Use the button controls to start, stop, reset, and add laps to the timer.
 
-Built by Juan (Juanye)
+## Technologies Used
+- HTML5
+- CSS
+- JavaScript
+
+## Created By
+Juan (Juanye)
+
+Thank you for using the Stopwatch App!
